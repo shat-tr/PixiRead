@@ -1,0 +1,1 @@
+PixiRead is an AI-powered multi-agent system built to make information accessible for everyone by extracting text from images, understanding it, answering questions about it, and translating it into any language the user chooses.
